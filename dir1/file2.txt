@@ -1,0 +1,2 @@
+branch 2 in reset state
+addition in branch 2
