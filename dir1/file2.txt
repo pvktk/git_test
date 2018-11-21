@@ -1,2 +1,6 @@
 branch 2 in reset state
+<<<<<<< HEAD
 addition in branch 2
+=======
+master addition
+>>>>>>> 718fe2313186e6c8a8a4a07ced0303d8a1d9e319
