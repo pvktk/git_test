@@ -1,3 +1,2 @@
 language: java
-directories:
-- travis_test
+before_script: cd travis_test
